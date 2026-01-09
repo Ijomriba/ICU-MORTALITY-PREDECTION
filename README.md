@@ -1,7 +1,7 @@
 
-Project Title
+# Project Title
 
-# ICU Mortality Prediction Using Machine Learning
+ICU Mortality Prediction Using Machine Learning
 
 # Problem Statement
 
